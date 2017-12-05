@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/tsyork/helloworld2#readme",
   "devDependencies": {
-    "mocha": "^4.0.1",
+    "mocha": "^2.5.3",
     "zombie": "^5.0.7"
   }
 }
